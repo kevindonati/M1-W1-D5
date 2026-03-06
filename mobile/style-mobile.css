@@ -84,10 +84,6 @@ button {
   padding-top: 60px;
 }
 
-#corsivo {
-  font-style: italic;
-}
-
 #ceo {
   font-size: 0.8em;
   margin-top: 0 !important;
@@ -151,7 +147,7 @@ footer div p {
   display: inline-block;
 }
 
-i {
+footer i {
   color: white;
 }
 
